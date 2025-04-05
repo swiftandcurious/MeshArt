@@ -2,7 +2,9 @@
 
 MeshArt is a creative code-along project that explores custom visual effects using SwiftUI and Metal. Learn how to create and manipulate mesh gradients—from static backgrounds to interactive, draggable canvases—and apply them to text and shapes to produce stunning visual art.
 
+<center>
 ![MeshArt Demo](MeshArtColorDemo-final-small-round.gif)
+</center>
 
 ## Overview
 
