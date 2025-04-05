@@ -2,7 +2,7 @@
 //  MeshArtApp.swift
 //  MeshArt
 //
-//  Created by Karina Schreiber on 4/3/25.
+//  Created by swiftandcurious on 4/3/25.
 //
 
 import SwiftUI
